@@ -1,7 +1,7 @@
 {
   "name": "steam-card-bot-ultra",
   "version": "1.7.5",
-  "description": "An free open source, fully automated Level Up Bot with all features and support and much more",
+  "description": "Professional commercial fully automated Steam Trade Cards bot - Steam Level up bot script with all features, support and endless customization + much more built by",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
