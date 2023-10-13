@@ -1,14 +1,21 @@
-# Steam-Card-Bot-ULTRA
 
-Steam Card Bot Ultra is the next generation upgrade of the Steam-Card-Bot-PRO software which still works (patches only, no updates)
-But Steam-Card-Bot-PRO lacks in terms of features which a modern service needs to run smoothly and compete with others on the market. Think of it as a free trial while Steam-Card-Bot-ULTRA is there to fill the demand with serious users who want to take their service to the next level. It contains upgrades and features that are designed with prior 4 years of experience and user feedback in mind
+# Unlock Ultimate Power with Steam-Card-Bot-ULTRA!
 
-Checkout the discord, open up a ticket and contact me to get a copy which is 27 TF2 keys: https://discord.gg/4enDY8yhuS <br>
+Are you ready to take your Steam Service to the next level? Steam Card Bot Ultra is the definitive upgrade to the trusted Steam-Card-Bot-PRO software, delivering a cutting-edge experience that patches any shortcomings and adds a wealth of features. Don't miss out on this opportunity to supercharge your trading journey!
 
-# Why, how, and history about the project
+Unlike its predecessor, Steam-Card-Bot-ULTRA comes loaded with features that set you apart in today's competitive market. Stay ahead of the curve with tools designed based on four years of experience and user feedback.
 
-When I started making the project Steam-Card-Bot-PRO, I didn't know how many people would be interested to use it, I was trying to make the best product possible for the community to use, with as many features and customization. It has been almost 4 years since the start, and I've really wanted to make a version that's always free with ever-growing user base and new updates... A lot of people used the script, but very few donated, maybe 10 or $20 in total for a couple of years while project with so ever-growing demand and my lack of time I can dedicate to it due cost of living rising with each passing day, I've had to stop putting out free updates containing new features and stop the development of the public always free Steam-Card-Bot-PRO (It's still available with basic features made to work).
+Think of Steam-Card-Bot-PRO as your free trial. Now, with Steam-Card-Bot-ULTRA, we're ready to satisfy the needs of serious users looking to elevate their trading experience. It's time to make the switch!
 
-Demand didn't go away, and as users kept on requesting features, I've used to trade some of my time as a hobby for few TF2 keys to integrate their desired features.
-As the time went on, more and more people wanted new things, so I bundled all the improvements containing around 15 total updates into Steam-Card-Bot-ULTRA which will continue its development but with the code not available to the public via me for free that is guaranteed not to contain any backdoors. Please make sure if you want to get Steam-Card-Bot-ULTRA to get it right from the source on the official discord where I will provide personal support and updates. Any other copy distributed by anyone else, will most likely not be the newest, and changes to it might be made to make it compromised.
-Entire project is still kept with original files available in open source format, under the MIT license, which doesn't prohibit doing anything with the project with only condition being keeping the original license and copyright where I've left it, that still doesn't guarantee that the code is not changed or legitimate unless its gotten right from the source.
+## Why, How, and History:
+When the journey began with Steam-Card-Bot-PRO, I never anticipated the overwhelming interest it would generate. Over almost four years, it evolved, striving to provide the community with a feature-rich, customizable solution. However, the time came when I had to halt free updates due to increasing living costs and limited donations.
+
+## Our Commitment to Quality:
+The demand for innovative features never waned, and I responded by dedicating my time to integrating user-requested improvements for a few TF2 keys. As more users joined in, i bundled these enhancements and much more into Steam-Card-Bot-ULTRA, ensuring that it continues to evolve and stays up to date.
+
+## Exclusive Support and Updates:
+For a legitimate and up-to-date copy of Steam-Card-Bot-ULTRA, access it directly from the official Discord server. We're committed to providing personal support and timely updates. Copies distributed elsewhere may not be the latest version and could pose a security risk, via backdoors that could lead to loss of items and accounts.
+
+While we keep the project open source under the MIT license, which allows for versatility, obtaining it from the source guarantees its authenticity, support and updates.
+
+Don't miss out on the ultimate Steam trading experience. Join us on Discord, open a ticket, and secure your copy of Steam-Card-Bot-ULTRA for just 27 TF2 keys. Elevate your trading game today and stay at the forefront of the market! https://discord.gg/4enDY8yhuS
