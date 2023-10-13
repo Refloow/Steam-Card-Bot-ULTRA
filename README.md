@@ -1,6 +1,7 @@
 # Steam-Card-Bot-ULTRA
 
-Steam Card Bot Ultra is the next generation upgrade of the Steam-Card-Bot-PRO software which still works (patches only, no updates) that lacks in terms of features which a modern service needs to run smoothly and compete with others on the market. Think of it as a free trial while Steam-Card-Bot-ULTRA is there to fill the demand with serious users who want to take their service to the next level. It contains upgrades and features that are designed with prior 4 years of experience and user feedback in mind
+Steam Card Bot Ultra is the next generation upgrade of the Steam-Card-Bot-PRO software which still works (patches only, no updates)
+But Steam-Card-Bot-PRO lacks in terms of features which a modern service needs to run smoothly and compete with others on the market. Think of it as a free trial while Steam-Card-Bot-ULTRA is there to fill the demand with serious users who want to take their service to the next level. It contains upgrades and features that are designed with prior 4 years of experience and user feedback in mind
 
 Checkout the discord, open up a ticket and contact me to get a copy which is 27 TF2 keys: https://discord.gg/4enDY8yhuS <br>
 
