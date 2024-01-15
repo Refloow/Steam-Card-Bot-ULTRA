@@ -1,5 +1,5 @@
-
-# Unlock Ultimate Power with Steam-Card-Bot-ULTRA!
+# Steam-Card-Bot-ULTRA
+## Unlock Ultimate Power with Steam-Card-Bot-ULTRA!
 
 Are you ready to take your Steam Level Service to the next level? Steam Card Bot Ultra is the definitive upgrade to the trusted Steam-Card-Bot-PRO software, delivering a cutting-edge experience that patches any shortcomings and adds a wealth of features. Don't miss out on this opportunity to supercharge your trading journey!
 
@@ -18,4 +18,4 @@ For a legitimate and up-to-date copy of Steam-Card-Bot-ULTRA, access it directly
 
 While we keep the project open source under the MIT license, which allows for versatility, obtaining it from the source guarantees its authenticity, support and updates.
 
-Don't miss out on the ultimate Steam trading experience. Join us on Discord, open a ticket, and secure your copy of Steam-Card-Bot-ULTRA for just 27 TF2 keys. Elevate your trading game today and stay at the forefront of the market! https://discord.gg/4enDY8yhuS
+Don't miss out on the ultimate Steam trading experience. Join us on Discord, open a ticket, and secure your copy of Steam-Card-Bot-ULTRA for just (15 TF2 KEYS UNTILL THE END OF JANUARY 2024 50% OFF)afterwards price is 30 TF2 keys. Elevate your trading game today and stay at the forefront of the market! https://discord.gg/4enDY8yhuS
