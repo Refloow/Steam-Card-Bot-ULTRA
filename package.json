@@ -1,0 +1,32 @@
+{
+  "name": "steam-card-bot-ultra",
+  "version": "1.8.0",
+  "description": "Professional commercial fully automated Steam Trade Cards bot - Steam Level up bot script with all features, support and endless customization + much more built by Refloow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "title Refloow / Steam-Card-Bot-ULTRA & node index.js pause"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Refloow/Steam-Card-Bot-ULTRA.git"
+  },
+  "keywords": [
+    "Steam",
+    "Trade",
+    "SteamTradeBot",
+    "Level",
+    "steamlevel",
+    "steambot",
+    "stgeamcardbot",
+    "levelbot"
+  ],
+  "author": "Veljko Vuckovic",
+  "license": "MIT",
+  "years": "2020-2022-2023",
+  "bugs": {
+    "url": "https://github.com/Refloow/Steam-Card-Bot-ULTRA/issues"
+  },
+  "homepage": "https://github.com/Refloow/Steam-Card-Bot-ULTRA",
+  "private": true
+}
