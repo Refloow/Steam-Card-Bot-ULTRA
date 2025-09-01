@@ -1,6 +1,6 @@
 {
   "name": "steam-card-bot-ultra",
-  "version": "1.8.2",
+  "version": "1.9.0",
   "description": "Professional commercial fully automated Steam Trade Cards bot - Steam Level up bot script with all features, support and endless customization + much more built by Refloow",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   ],
   "author": "Veljko Vuckovic",
   "license": "MIT",
-  "years": "2020-2022-2023",
+  "years": "2020-2022-2023-2024-2025",
   "bugs": {
     "url": "https://github.com/Refloow/Steam-Card-Bot-ULTRA/issues"
   },
