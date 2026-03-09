@@ -29,7 +29,7 @@ ULTRA introduces a suite of exclusive, commercial-grade features designed to giv
 
 ## 🚀 Business Growth & Ecosystem Integration
 - Native Platform Integration: Maximize your visibility. ULTRA includes built-in support for major level-up service listing platforms like Steam Supply and SteamTradeBots.com with more integrations actively in development.
-- Full Internationalization: Reach a global audience effortlessly. All bot commands and user-facing responses are professionally translated in over 10 languages, allowing users to interact with the bot in their native tongue.
+- Full Internationalization: Reach a global audience effortlessly. All bot commands and user-facing responses are professionally translated in over 10 languages, allowing users to interact with the bot in their native tongue!
 
 Contact:
 - Discord: @refloow userid: 749452967207501836
