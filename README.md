@@ -5,6 +5,7 @@ The definitive commercial-grade software for starting, automating and scaling yo
 Born from over five years of community-trusted development that set the industry standard, **ULTRA** is the next-generation platform engineered for professional vendors made easy to use for beginers. It was rebuilt from the ground up to provide unparalleled control, business intelligence, and scalability, allowing you to operate a truly world-class service with confidence.
 
 Contact:
+For inqueries, open up a discord ticket or contact refloow on discord
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
@@ -32,5 +33,6 @@ ULTRA introduces a suite of exclusive, commercial-grade features designed to giv
 - Full Internationalization: Reach a global audience effortlessly. All bot commands and user-facing responses are professionally translated in over 10 languages, allowing users to interact with the bot in their native tongue!
 
 Contact:
+For inqueries, open up a discord ticket or contact refloow on discord
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
