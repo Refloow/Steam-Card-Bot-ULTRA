@@ -5,7 +5,8 @@ The definitive commercial-grade software for starting, automating and scaling yo
 Born from over five years of community-trusted development that set the industry standard, **ULTRA** is the next-generation platform engineered for professional vendors made easy to use for beginers. It was rebuilt from the ground up to provide unparalleled control, business intelligence, and scalability, allowing you to operate a truly world-class service with confidence.
 
 # Contact:
-For inqueries, open up a discord ticket or contact refloow on discord, currently steam card bot ultra is 50% off
+For inqueries, open up a discord ticket or contact refloow on discord, currently steam card bot ultra is 
+>  50% off limited time offer
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
