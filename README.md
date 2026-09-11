@@ -10,13 +10,6 @@ For inqueries, open up a discord ticket or contact refloow on discord, currently
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
-## The Philosophy
-
-ULTRA is more than just a bot; it's a complete business ecosystem built on three core pillars:
-
-- 📈 Intelligence: Go beyond simple trades with deep analytics and smart automation. Understand your business, your users, and your inventory like never before.
-- 🌐 Scalability: From your first trade to your ten-thousandth user, ULTRA is designed for growth with a robust architecture tested for high-volume operations.
-- ⚙️ Control: Fine-tune every aspect of your service through a powerful central dashboard and the most modular configuration system ever built for a steam trading bot.
 
 ## The ULTRA Advantage: Next-Generation Features
 
