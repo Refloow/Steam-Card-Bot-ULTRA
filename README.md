@@ -6,7 +6,6 @@ Born from over five years of community-trusted development that set the industry
 
 # Contact:
 For inqueries, open up a discord ticket or contact refloow on discord, currently steam card bot ultra is 
->  50% off limited time offer
 - Discord: @refloow userid: 749452967207501836
 - Discord server: https://discord.gg/hcafD8Be7X
 
